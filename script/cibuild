@@ -4,7 +4,7 @@ root_dir=`pwd`
 
 for file in *; do
 	cd $root_dir
-    if [ -d "$file" -a ! "$file" = script ]; then
+    if [ -d "$file" -a ! "$file" = script -a ! "$file" = node_modules ]; then
     	echo "entering dir: $file"
     	cd "$file"
         gitbook build

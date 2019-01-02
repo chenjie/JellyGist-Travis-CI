@@ -4,7 +4,7 @@ root_dir=`pwd`
 
 for filename in *; do
 	cd $root_dir
-    if [ -d "$filename" -a ! "$filename" = script ]; then
+    if [ -d "$filename" -a ! "$filename" = script -a ! "$filename" = node_modules ]; then
     	cd "$filename"
         rsync -rqz --delete-after --rsync-path="mkdir -p ${DEPLOY_DIRECTORY}/${filename} && rsync" _book/ $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY/${filename}
     fi
