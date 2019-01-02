@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+root_dir=`pwd`
+
+for file in *; do
+	cd $root_dir
+    if [ -d "$file" ]; then
+    	cd "$file"
+        gitbook build
+    fi
+done

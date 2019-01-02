@@ -1,0 +1,32 @@
+language: node_js
+node_js:
+- iojs
+- '7'
+sudo: false
+cache:
+  directories:
+  - node_modules
+before_install:
+- chmod +x ./script/install_dep
+install:
+- "./script/install_dep"
+before_script:
+- chmod +x ./script/cibuild
+script:
+- "./script/cibuild"
+branches:
+  only:
+  - master
+before_deploy:
+- openssl aes-256-cbc -K $encrypted_dee095fed691_key -iv $encrypted_dee095fed691_iv
+  -in deploy_rsa.enc -out deploy_rsa -d
+- eval "$(ssh-agent -s)"
+- chmod 600 ./deploy\_rsa
+- ssh-add ./deploy\_rsa
+- echo -e "Host $DEPLOY_HOST\n\tPort $DEPLOY_HOST_SSH_PORT\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+deploy:
+- provider: script
+  skip_cleanup: true
+  script: bash scripts/deploy.sh
+  on:
+    branch: master
