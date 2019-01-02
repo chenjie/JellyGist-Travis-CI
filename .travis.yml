@@ -1,12 +1,12 @@
 language: node_js
 node_js:
-- iojs
-- '7'
+- '10'
 sudo: false
 cache:
   directories:
   - node_modules
 before_install:
+- npm install gitbook-cli -g
 - chmod +x ./script/install_dep
 install:
 - "./script/install_dep"
