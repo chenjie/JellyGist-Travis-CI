@@ -4,7 +4,7 @@ root_dir=`pwd`
 
 for file in *; do
 	cd $root_dir
-    if [ -d "$file" ]; then
+    if [ -d "$file" -a ! "$file" = script ]; then
     	cd "$file"
         gitbook install
     fi
