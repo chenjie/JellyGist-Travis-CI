@@ -5,6 +5,7 @@ root_dir=`pwd`
 for file in *; do
 	cd $root_dir
     if [ -d "$file" -a ! "$file" = script ]; then
+    	echo "entering dir: $file"
     	cd "$file"
         gitbook build
     fi
