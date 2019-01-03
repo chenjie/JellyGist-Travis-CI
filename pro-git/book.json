@@ -1,0 +1,27 @@
+{
+	"title": "JellyGist",
+  	"description": "JellyGist 是一个简洁的代码片段分享网站",
+    "author" : "Scott Chacon",
+    "links" : {
+    	"sidebar": {
+            "Chenjie Ni's Blog": "https://nichenjie.com"
+        }
+	},
+  	"plugins": ["github", "back-to-top-button", "anchors", "-sharing", "disqus", "edit-link"],
+	"pluginsConfig": {
+	    "github": {
+	        "url": "https://github.com/jellycsc"
+	    },
+	    "disqus": {
+            "shortName": "jellygist"
+		},
+		"edit-link": {
+            "base": "https://github.com/jellycsc/JellyGist-Travis-CI/edit/master/pro-git",
+            "label": {
+                "en": "Edit This Page",
+                "zh-hans": "编辑本页",
+                "zh-tw": "編輯頁面"
+            }
+		}
+	}  
+}
