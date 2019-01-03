@@ -13,3 +13,4 @@
 ## 速查小抄
 
 * [Markdown](md-cheat-sheet.md)
+* [Basic TeX Command](latex-cheat-sheet.md)
