@@ -4,29 +4,13 @@
 
 ## 关于我
 
-> 最近更新于2018年12月28日上海
+> 最近更新时间：2019年12月28日 于上海
 
-目前多伦多大学大四在读学生，主修计算机科学，辅修数学，专业方向人工智能领域的机器学习。
+目前多伦多大学大四在读学生，主修计算机科学，辅修数学，专业方向人工智能领域的机器学习。  
+Image credit: [Ian Goodfellow](https://github.com/goodfeli)
+
+![ai-and-machine-learning-venn-diagram](venn.jpg)
 
 ## 无法正常访问 Google 和 YouTube？
 
 [航空母舰](https://free-ss.me/)
-
-$$
-\int_{-\infty}^\infty g(x) dx
-$$
-$$
-\int_{-\infty}^\infty g(x) dx
-$$
-$$
-\int_{-\infty}^\infty g(x) dx
-$$
-$$
-\int_{-\infty}^\infty g(x) dx
-$$
-$$
-\int_{-\infty}^\infty g(x) dx
-$$
-$$
-\int_{-\infty}^\infty g(x) dx
-$$
