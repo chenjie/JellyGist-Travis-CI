@@ -9,3 +9,7 @@
 * [Disqus](disqus.md)
 * [KaTeX](katex.md)
 * [Syntax Highlighting](prism.md)
+
+## 速查小抄
+
+* [Markdown](md-cheat-sheet.md)
