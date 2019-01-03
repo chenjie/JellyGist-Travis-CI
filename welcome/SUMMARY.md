@@ -8,3 +8,4 @@
 * [YouTube](youtube.md)
 * [Disqus](disqus.md)
 * [KaTeX](katex.md)
+* [Syntax Highlighting](prism.md)
