@@ -2,7 +2,7 @@
 
 ## 标题
 
-```no-highlight
+```markdown
 # H1
 ## H2
 ### H3
@@ -38,7 +38,7 @@ Alt-H2
 
 ## 强调
 
-```no-highlight
+```markdown
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -63,7 +63,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 (在以下例子中，点'⋅'表示一个空格)
 
-```no-highlight
+```markdown
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
@@ -105,7 +105,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 共有两种方式创建链接。
 
-```no-highlight
+```markdown
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
@@ -155,7 +155,7 @@ Some text to show that the reference links can follow later.
 
 ## 图片
 
-```no-highlight
+```markdown
 Here's our logo (hover to see the title text):
 
 Inline-style: 
@@ -183,7 +183,7 @@ Reference-style:
 
 Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
 
-```no-highlight
+```markdown
 Inline `code` has `back-ticks around` it.
 ```
 
@@ -231,7 +231,7 @@ But let's throw in a <b>tag</b>.
 
 Tables aren't part of the core Markdown spec, but they are part of GFM and *Markdown Here* supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.
 
-```no-highlight
+```markdown
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
@@ -269,7 +269,7 @@ Markdown | Less | Pretty
 
 ## 区块引用
 
-```no-highlight
+```markdown
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
 
@@ -291,7 +291,7 @@ Quote break.
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well. 
 
-```no-highlight
+```markdown
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
