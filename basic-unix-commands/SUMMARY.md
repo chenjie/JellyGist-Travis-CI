@@ -6,3 +6,8 @@
 ## 正文
 
 * [date](date.md)
+* [uname](uname.md)
+* [htop](htop.md)
+* [ls](ls.md)
+* [cp](cp.md)
+* [mv](mv.md)
