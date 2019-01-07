@@ -7,9 +7,12 @@
 
 * [date](date.md)
 * [uname](uname.md)
+* [ifconfig](ifconfig.md)
+* [df](df.md)
 * [htop](htop.md)
 * [ls](ls.md)
 * [cp](cp.md)
 * [mv](mv.md)
+* [rm](rm.md)
 
 ## 未完待续...
