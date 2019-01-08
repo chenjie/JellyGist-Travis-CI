@@ -1,0 +1,30 @@
+{
+	"title": "JellyGist",
+  	"description": "JellyGist 是一个简洁的代码片段分享网站",
+  	"author" : "Chenjie Ni",
+  	"language": "zh-hans",
+  	"links" : {
+    	"sidebar": {
+            "Chenjie Ni's Blog": "https://nichenjie.com"
+        }
+	},
+  	"plugins": ["github", "back-to-top-button", "anchors", "-sharing", "disqus", "edit-link", "prism", "-highlight", "youtubex"],
+	"pluginsConfig": {
+	    "github": {
+	        "url": "https://github.com/jellycsc"
+	    },
+	    "disqus": {
+            "shortName": "jellygist"
+		},
+		"edit-link": {
+			"base": "https://github.com/jellycsc/JellyGist-Travis-CI/edit/master/lets-talk-about-ssh",
+			"label": "编辑本页"
+		},
+		"youtubex": {
+			"embedDescription": {
+			  "en": "Watch this video!",
+			  "zh": "观看 YouTube 视频"
+			}
+		}
+	}
+}
