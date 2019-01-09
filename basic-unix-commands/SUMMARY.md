@@ -10,11 +10,18 @@
 * [ifconfig](ifconfig.md)
 * [df](df.md)
 * [htop](htop.md)
+* [pwd](pwd.md)
+* [echo](echo.md)
 * [ls](ls.md)
+* [touch](touch.md)
+* [mkdir](mkdir.md)
 * [cp](cp.md)
 * [mv](mv.md)
 * [rm](rm.md)
+* [rmdir](rmdir.md)
 * [ssh](ssh.md)
+* [scp](scp.md)
+* [tar](tar.md)
 * [git](git.md)
 
 ## 未完待续...
