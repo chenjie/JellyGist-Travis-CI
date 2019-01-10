@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 root_dir=`pwd`
+build_books=`cat select_books`
 
-for filename in *; do
+for file in $build_books; do
 	cd $root_dir
     if [ -d "$filename" -a ! "$filename" = script -a ! "$filename" = node_modules ]; then
     	cd "$filename"
