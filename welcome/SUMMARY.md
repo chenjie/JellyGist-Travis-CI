@@ -17,5 +17,4 @@
 
 ## 更多书籍博客
 
-* [JellyGist 总汇](all-in-one.md)
 * [友情链接](blogroll.md)
