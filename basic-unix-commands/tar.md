@@ -1,6 +1,6 @@
 # tar
 
-Windows 下最好用的压缩工具是什么？WinRAR (＾－＾)V，而 Unix 下的皇冠👑就非 `tar` 莫属了。PS: 写到这我还是忍不住重温一个老梗 `winrar.rar`。
+Windows 下最好用的压缩工具是什么？WinRAR (＾－＾)V，而 Unix 下的皇冠👑就非 `tar` 莫属了。PS: 写到这我还是忍不住重温一个老梗 `WinRARsetup.rar`。
 
 `tar` 可以将零碎的文件打包，适合在传输文件前执行，这样能加快传输速度，减少每个零碎文件握手的 overhead (大家意会一下，这里实在不知道怎么用中文表达了TAT)。
 
