@@ -3,6 +3,21 @@
 [![NPM version](https://badge.fury.io/js/gitbook.svg)](http://badge.fury.io/js/gitbook)
 [![Build Status](https://travis-ci.com/jellycsc/JellyGist-Travis-CI.svg?branch=master)](https://travis-ci.com/jellycsc/JellyGist-Travis-CI)
 
+## Screenshots
+Mobile Version             |  Full-sized Version
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/25379724/52883898-82924900-313a-11e9-82fc-82ce74db540b.png" width="1200"/>  |  ![full-sized](https://user-images.githubusercontent.com/25379724/52883901-832adf80-313a-11e9-94f4-7d257fd97b1e.png)
+
+## What the fck is a Gist?
+As you may probably have noticed, the name JellyGist is inspired by ('stolen' from) GitHub Gist. This project is intended to share small code snippets and `tldr` tutorials. Comming up with a concise name is so hard and finally I decided to use the keyword `Gist`. If you think this name is awful, why not send me an [email](mailto:nichenjie2013@gmail.com) and let me know your suggestion? Any suggestion will be much appreciated:)
+
+## Gist Focuses
+* Entry level Linux skills and tricks
+* My fck'd up momemts during coding :) hf
+* Different OS neat features and shortcuts
+* Break the wa11
+* And more ... If you are interested in something I've done, send me an [email](mailto:nichenjie2013@gmail.com) and I will consider writing a piece of Gist about it.
+
 ## Code License
 [MIT](LICENSE)
 
