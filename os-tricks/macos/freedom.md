@@ -6,7 +6,7 @@
 
 ## 所需软件
 
-1. [航空母舰](https://free-ss.me/)账号（注册就有`1G`免费流量）
+1. [航空母舰](https://free-ss.me/)账号（注册就有`5G`免费流量）
 2. [酸酸乳](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)软件
 
 ## 操作步骤
