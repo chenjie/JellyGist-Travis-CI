@@ -7,7 +7,7 @@
             "Chenjie Ni's Blog": "https://nichenjie.com"
         }
 	},
-  	"plugins": ["github", "back-to-top-button", "anchors", "-sharing", "disqus", "edit-link"],
+  	"plugins": ["github", "back-to-top-button", "anchors", "-sharing", "disqus", "edit-link", "-lunr", "-search", "search-plus"],
 	"pluginsConfig": {
 	    "github": {
 	        "url": "https://github.com/jellycsc"
