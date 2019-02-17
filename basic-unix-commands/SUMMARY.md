@@ -11,6 +11,7 @@
 * [df](df.md)
 * [htop](htop.md)
 * [pwd](pwd.md)
+* [cd](cd.md)
 * [echo](echo.md)
 * [ls](ls.md)
 * [touch](touch.md)
@@ -19,9 +20,12 @@
 * [mv](mv.md)
 * [rm](rm.md)
 * [rmdir](rmdir.md)
-* [ssh](ssh.md)
 * [scp](scp.md)
 * [tar](tar.md)
-* [git](git.md)
+
+## 专题
+
+* [ssh](ssh.md)
+* [git*](git.md)
 
 ## 持续更新中...

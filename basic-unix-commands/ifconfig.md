@@ -37,3 +37,17 @@ lo        Link encap:Local Loopback
           collisions:0 txqueuelen:1000
           RX bytes:233420505104 (233.4 GB)  TX bytes:233420505104 (233.4 GB)
 ```
+
+## Alternative
+
+这里不得不提一句 `ifconfig` 的接班人 `ip` 命令，它的功能更加强大，这里我仅仅演示一下如何查询本地 ip 地址。在上面我们看到当前服务器下有多条 link，我们通常只关心 `eth0`，因为单路网卡在家庭中最为常见。
+
+```bash
+$ ip addr show eth0
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:25:90:5a:2a:02 brd ff:ff:ff:ff:ff:ff
+    inet 128.100.31.200/24 brd 128.100.31.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::225:90ff:fe5a:2a02/64 scope link
+       valid_lft forever preferred_lft forever
+```
