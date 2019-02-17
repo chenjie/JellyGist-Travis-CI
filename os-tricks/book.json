@@ -8,7 +8,7 @@
             "Chenjie Ni's Blog": "https://nichenjie.com"
         }
 	},
-	"plugins": ["github", "back-to-top-button", "anchors", "-sharing", "disqus", "edit-link", "prism", "-highlight", "youtubex", "-lunr", "-search", "search-plus"],
+	"plugins": ["github", "back-to-top-button", "anchors", "-sharing", "disqus", "edit-link", "prism", "-highlight", "youtubex", "-lunr", "-search", "search-plus", "baidu-tongji"],
 	"pluginsConfig": {
 	    "github": {
 	        "url": "https://github.com/jellycsc"
@@ -25,6 +25,9 @@
 			  "en": "Watch this video!",
 			  "zh": "观看 YouTube 视频"
 			}
+		},
+		"baidu-tongji": {
+			"token": "3afbac45f69cb1bbb392654d18526953"
 		}
 	}
 }
