@@ -12,7 +12,15 @@ Mobile Version             |  Full-sized Version
 ## What the fck is a Gist?
 As you may probably have noticed, the name JellyGist is inspired by ('stolen' from) GitHub Gist. This project is intended to share small code snippets and `tldr` tutorials. Comming up with a concise name is so hard and finally I decided to use the keyword `Gist`. If you think this name is awful, why not send me an [email](mailto:nichenjie2013@gmail.com) and let me know your suggestion? Any suggestion will be much appreciated:)
 
+## Collaborators
+
+| Name                    | GitHub                                     | Email
+| ----------------------- | ------------------------------------------ | -------------------------
+| Chenjie (Jack) Ni       | [jellycsc](https://github.com/jellycsc)    | nichenjie2013@gmail.com
+| Runqi (KiKi) Bi         | [kiki1415926](https://github.com/kiki1415926)    | runqi.bi@mail.utoronto.ca
+
 ## Gist Focuses
+* LeetCode (力扣)
 * Entry level Linux skills and tricks
 * My fck'd up momemts during coding :) hf
 * Different OS neat features and shortcuts
