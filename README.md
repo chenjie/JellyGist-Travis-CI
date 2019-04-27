@@ -1,6 +1,7 @@
 # [JellyGist](https://gist.nichenjie.com)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Last Commit](https://img.shields.io/github/last-commit/jellycsc/JellyGist-Travis-CI.svg)](https://github.com/jellycsc/JellyGist-Travis-CI/commits/master)
 [![NPM version](https://badge.fury.io/js/gitbook.svg)](http://badge.fury.io/js/gitbook)
 [![Build Status](https://travis-ci.com/jellycsc/JellyGist-Travis-CI.svg?branch=master)](https://travis-ci.com/jellycsc/JellyGist-Travis-CI)
 [![Website](https://img.shields.io/website-up-down-green-red/http/gist.nichenjie.com.svg?label=website-status)](https://gist.nichenjie.com/) 
