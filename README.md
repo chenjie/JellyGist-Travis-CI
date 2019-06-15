@@ -11,7 +11,7 @@ Mobile Version             |  Full-sized Version
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/25379724/52883898-82924900-313a-11e9-82fc-82ce74db540b.png" width="1200"/>  |  ![full-sized](https://user-images.githubusercontent.com/25379724/52883901-832adf80-313a-11e9-94f4-7d257fd97b1e.png)
 
-## What the fck is a Gist?
+## What the hell is a Gist?
 As you may probably have noticed, the name JellyGist is inspired by ('stolen' from) GitHub Gist. This project is intended to share small code snippets and `tldr` tutorials. Comming up with a concise name is so hard and finally I decided to use the keyword `Gist`. If you think this name is awful, why not send me an [email](mailto:nichenjie2013@gmail.com) and let me know your suggestion? Any suggestion will be much appreciated:)
 
 ## Collaborators
